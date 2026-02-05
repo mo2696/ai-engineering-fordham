@@ -7,4 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=7.1.0",
     "numpy>=2.4.1",
+    "pandas>=3.0.0",
+    "pystemmer>=3.0.0",
+    "sentence-transformers>=5.2.2",
 ]
