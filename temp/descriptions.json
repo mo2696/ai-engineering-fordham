@@ -1,0 +1,1002 @@
+{
+  "dog_001.png": {
+    "description": "A joyful golden retriever is captured in mid-air, leaping with exuberance while holding a bright green tennis ball in its mouth. Sunlight filters through the trees, creating a vibrant backdrop of greenery and a soft glow around the dog. The park setting is lively, with people visible in the background, highlighting a cheerful outdoor atmosphere perfect for playtime.",
+    "breed": "golden_retriever",
+    "style": "photo",
+    "setting": "park",
+    "activity": "playing",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_002.png": {
+    "description": "A golden retriever joyfully splashes through the shallow waves at the beach, its fur glimmering in the sunlight. The dog has a wide, playful grin, embodying a carefree spirit as it enjoys a sunny day by the ocean. In the background, palm trees and distant beachgoers add to the vibrant seaside atmosphere, enhancing the scene's warm and inviting mood.",
+    "breed": "golden_retriever",
+    "style": "photo",
+    "setting": "beach",
+    "activity": "playing",
+    "mood": "happy",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_003.png": {
+    "description": "A tranquil scene features a golden retriever peacefully sleeping on a plush leather couch, adorned with a cozy blanket. The living room is warmly lit, with tasteful artwork on the walls and a crackling fireplace casting a soft glow. A coffee mug sits next to a newspaper titled 'DAILY NEWS 2026' on a wooden coffee table, enhancing the inviting atmosphere of the cozy space.",
+    "breed": "golden_retriever",
+    "style": "photo",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_004.png": {
+    "description": "A cheerful golden retriever is seen running joyfully along a dirt path, surrounded by a vibrant autumn forest. The trees display hues of orange and yellow, with fallen leaves carpeting the ground, creating a warm and inviting atmosphere. The dog's fur glistens in the soft sunlight filtering through the branches, enhancing the picturesque scene of nature and playful energy.",
+    "breed": "golden_retriever",
+    "style": "photo",
+    "setting": "forest",
+    "activity": "running",
+    "mood": "happy",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_005.png": {
+    "description": "This majestic golden retriever sits gracefully on a polished wooden floor, facing the camera with an intelligent and calm expression. The dog has a lush golden coat that glistens under soft studio lighting, emphasizing its friendly demeanor and alert eyes. The minimalistic grey background highlights the dog's vibrant hue, making it the central focus of the image, perfect for showcasing the breed's characteristic charm and beauty.",
+    "breed": "golden_retriever",
+    "style": "photo",
+    "setting": "studio",
+    "activity": "posing",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_006.png": {
+    "description": "A beautifully rendered pencil sketch of a golden retriever sitting serenely in a lush garden. The dog is positioned in the center, surrounded by various flowers including roses and lilies, creating a harmonious backdrop. The detailed shading and textures highlight the dog's fluffy coat and gentle expression, lending an air of tranquility to the overall composition.",
+    "breed": "golden_retriever",
+    "style": "pencil_sketch",
+    "setting": "garden",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_007.png": {
+    "description": "A cheerful golden retriever is swimming in a serene lake, the sun glistening off the water's surface. The dog's joyful expression is captured in vibrant colors, reflecting its playful spirit. Surrounding the lake are lush green trees, creating a tranquil and picturesque scene perfect for nature lovers and dog enthusiasts alike.",
+    "breed": "golden_retriever",
+    "style": "watercolor",
+    "setting": "lake",
+    "activity": "swimming",
+    "mood": "happy",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_008.png": {
+    "description": "In this vibrant oil painting, a golden retriever joyfully runs through a snowy landscape, its fur glistening against the white snow. The majestic mountains rise in the background under a dramatic sky filled with swirling clouds and a stunning sunset, casting warm hues across the scene. The image captures the essence of a carefree winter day, highlighting the energetic spirit of the dog as it explores its wintry surroundings.",
+    "breed": "golden_retriever",
+    "style": "oil_painting",
+    "setting": "snow",
+    "activity": "running",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_009.png": {
+    "description": "This cheerful illustration showcases a playful golden retriever mid-leap, joyfully chasing a red frisbee in a vibrant park setting. A bright blue sky dotted with fluffy white clouds enhances the scene, while a tree with a swing and a curious squirrel adds to the whimsical atmosphere. In the background, a girl plays with a kite near a tranquil pond where ducks swim, making it a lively and engaging scene.",
+    "breed": "golden_retriever",
+    "style": "cartoon",
+    "setting": "park",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_010.png": {
+    "description": "In this delightful scene, two golden retrievers joyfully run across a lush green park, each displaying enthusiasm as they chase a sturdy stick. The backdrop features tall trees with a gentle sunlight filtering through, enhancing the cheerful atmosphere of their playful outing. Their fur shines golden in the soft light, capturing the essence of a perfect day outdoors.",
+    "breed": "golden_retriever",
+    "style": "photo",
+    "setting": "park",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": true
+  },
+  "dog_011.png": {
+    "description": "A cozy living room scene featuring a pug curled up and sleeping peacefully on a soft, fluffy dog bed. The ambiance is warm and inviting, highlighted by a softly glowing fireplace in the background and comfortable furniture, creating a serene and homely atmosphere.",
+    "breed": "pug",
+    "style": "photo",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_012.png": {
+    "description": "In a charming outdoor caf\u00e9 setting, a pug dog sits upright on a beautifully designed wrought iron chair, wearing a fashionable striped scarf. The table in front has a plate with a treat, and a calendar displaying March 2026 hangs nearby. The background features a soft-focus view of a barista at work inside the caf\u00e9, surrounded by plants, which adds to the inviting atmosphere. The stone wall is adorned with climbing ivy and soft morning light enhances the serene vibe of this cozy moment.",
+    "breed": "pug",
+    "style": "photo",
+    "setting": "cafe",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_013.png": {
+    "description": "The image showcases a pug walking down a city sidewalk, bathed in bright sunlight under a clear sky. The dog is on a red leash, with its adorable wrinkled face and round body leading the way. In the background, urban buildings and people are softly blurred, highlighting the dog's presence in a lively urban environment.",
+    "breed": "pug",
+    "style": "photo",
+    "setting": "street",
+    "activity": "walking",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_014.png": {
+    "description": "In a bright and modern kitchen with white cabinetry and a large window letting in natural light, a playful pug is happily eating from a silver food bowl on the tiled floor. The scene captures the pug's adorable features, including its wrinkled face and stout body, displaying a moment of delightful concentration while nibbling on its food. A few dog kibbles are scattered around the bowl, adding to the lively atmosphere of a pet-friendly home.",
+    "breed": "pug",
+    "style": "photo",
+    "setting": "living_room",
+    "activity": "eating",
+    "mood": "happy",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_015.png": {
+    "description": "This image features an adorable beige pug with a small, elegant navy bow tie, posing against a clean white background. The pug's expressive dark eyes and slight frown give it a charming yet serious demeanor, making it look quite dapper. The simple background highlights the dog's features and attire, perfect for a formal or playful portrait.",
+    "breed": "pug",
+    "style": "photo",
+    "setting": "studio",
+    "activity": "posing",
+    "mood": "serious",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_016.png": {
+    "description": "The image features an adorable pug pup joyfully chasing a ball in a park setting surrounded by trees. The pencil sketch captures the dog's playful demeanor with its large, expressive eyes and distinct curly tail, emphasizing its energetic spirit as it leaps forward. The background elements, including the grassy ground and distant trees, enhance the overall lively atmosphere of the scene, making it a delightful representation of a dog's playtime.",
+    "breed": "pug",
+    "style": "pencil_sketch",
+    "setting": "park",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_017.png": {
+    "description": "A charming illustration of a pug sitting peacefully amidst a vibrant garden filled with colorful flowers. The pug's expressive face conveys a gentle demeanor, making it a delightful centerpiece against the backdrop of pastel hues and fluttering butterflies. The flowers in shades of pink, blue, yellow, and green create a whimsical and cheerful atmosphere, enhancing the overall serene vibe of the scene.",
+    "breed": "pug",
+    "style": "watercolor",
+    "setting": "garden",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_018.png": {
+    "description": "This vibrant cartoon-style illustration features a joyful pug wearing oversized sunglasses and a colorful floral lei. The dog is seated on a sandy beach with a backdrop of palm trees and a gentle ocean wave, evoking a fun, tropical vibe. The sunset casts a warm glow over the scene, enhancing the cheerful and relaxed ambiance.",
+    "breed": "pug",
+    "style": "cartoon",
+    "setting": "beach",
+    "activity": "sitting",
+    "mood": "happy",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_019.png": {
+    "description": "In an elegantly decorated room, a pug is peacefully sleeping on a plush, ornate cushion atop a wooden stool. The opulent setting features rich wallpaper adorned with floral patterns, an antique clock, and a bouquet of vibrant flowers on a mantle nearby. The warm sunlight filters through a large window, illuminating the regal ambiance of the space, complete with classic furniture and artfully placed decor that highlights a serene and luxurious atmosphere.",
+    "breed": "pug",
+    "style": "oil_painting",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_020.png": {
+    "description": "A cute pug dressed in a playful hot dog costume is seen standing on a city sidewalk, with a group of four people walking in the background. The vibrant street scene captures the lively atmosphere of a sunny day, showcasing the pug's curious expression as it navigates the bustling environment. The surrounding greenery and brick buildings add a charming urban backdrop to this delightful moment.",
+    "breed": "pug",
+    "style": "photo",
+    "setting": "street",
+    "activity": "standing",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_021.png": {
+    "description": "In a serene forest setting, a German Shepherd dog is captured mid-run along a winding path. The environment is shrouded in mist, with towering trees flanking the trail, creating a tranquil yet mysterious ambiance. The dog's expressive face and athletic build are highlighted against the soft, natural colors of the surroundings, evoking a sense of movement and vitality as it joyfully explores its woodland domain.",
+    "breed": "german_shepherd",
+    "style": "photo",
+    "setting": "forest",
+    "activity": "running",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_022.png": {
+    "description": "A vibrant photograph captures an energetic German Shepherd leaping through the air with excitement to catch a bright red frisbee. The golden fur glistens under the sunlight, contrasting beautifully with the deep blue sky filled with fluffy clouds. In the background, a vast green field stretches towards the horizon, where other people can be seen enjoying a sunny day, making it an ideal moment of play and joy.",
+    "breed": "german_shepherd",
+    "style": "photo",
+    "setting": "park",
+    "activity": "jumping",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_023.png": {
+    "description": "The image features a majestic German Shepherd standing in a snowy landscape, framed by snow-covered trees and towering mountains in the background. The dog exudes confidence with its detailed fur glistening with freshly fallen snowflakes. In the backdrop, a rustic lodge displays a bright red sign that reads 'HAPPY NEW YEAR 2026,' creating a festive atmosphere. The soft snow blankets the ground, creating an enchanting winter wonderland.",
+    "breed": "german_shepherd",
+    "style": "photo",
+    "setting": "snow",
+    "activity": "posing",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_024.png": {
+    "description": "In this vibrant urban scene, a German Shepherd sits attentively beside a bright red fire hydrant on a bustling city street. Skyscrapers and trees line the road, with pedestrians walking by, adding to the lively atmosphere. The dog gazes directly at the camera, featuring its characteristic erect ears and an alert expression, embodying both grace and a hint of playfulness amidst the city's hustle.",
+    "breed": "german_shepherd",
+    "style": "photo",
+    "setting": "street",
+    "activity": "sitting",
+    "mood": "alert",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_025.png": {
+    "description": "A majestic German Shepherd stands proudly in a vibrant flower garden, surrounded by a rainbow of blooms, including red, orange, purple, and yellow flowers. The warm glow of the evening sun casts a gentle light over the scene, enhancing the dog's striking features and the colorful foliage around it. A quaint cottage is softly blurred in the background, adding to the idyllic setting, making it a perfect moment captured in nature.",
+    "breed": "german_shepherd",
+    "style": "photo",
+    "setting": "garden",
+    "activity": "posing",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_026.png": {
+    "description": "This is a detailed pencil sketch of a German Shepherd, showcasing its distinct features such as erect ears and intelligent expression. The dog is positioned facing the viewer, with a soft gradient background that enhances its presence, capturing the breed's characteristic strength and loyalty. The artist's signature, 'A. Richter', suggests a personal touch to this beautifully rendered illustration, making it an ideal piece for dog lovers and art enthusiasts alike.",
+    "breed": "german_shepherd",
+    "style": "pencil_sketch",
+    "setting": "other",
+    "activity": "posing",
+    "mood": "serious",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_027.png": {
+    "description": "This vibrant watercolor painting captures a German Shepherd joyfully running along the shoreline during sunset. The dog's sleek form is highlighted by the warm hues of the sky, which transition from golden yellow to deep orange and soft lavender, reflecting on the gentle waves lapping at the sandy beach. This dynamic scene evokes feelings of freedom and joy, perfect for showcasing the bond between nature and pets.",
+    "breed": "german_shepherd",
+    "style": "watercolor",
+    "setting": "beach",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_028.png": {
+    "description": "In a serene forest setting, a German Shepherd sits majestically on a log, surrounded by softly lit trees and faint mist that adds an ethereal quality to the scene. The dog's striking coat features a mix of golden browns and blacks, and its attentive gaze conveys both strength and loyalty. The natural backdrop, filled with muted earthy tones and delicate foliage, evokes a sense of calm and connection with nature, making this artwork a captivating depiction of the breed.",
+    "breed": "german_shepherd",
+    "style": "oil_painting",
+    "setting": "forest",
+    "activity": "sitting",
+    "mood": "serious",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_029.png": {
+    "description": "This vibrant, cartoon-style illustration features a cheerful German Shepherd named Baranby, captured mid-run in a sunny park setting. The dog\u2019s tongue is out with excitement as it chases a bright red frisbee. The background is adorned with green trees, fluffy clouds, and colorful flowers, creating a playful and lively atmosphere that embodies the joy of outdoor playtime.",
+    "breed": "german_shepherd",
+    "style": "cartoon",
+    "setting": "park",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_030.png": {
+    "description": "In a cozy living room setting, a German Shepherd lies peacefully on a soft rug, basking in the warm sunlight that filters through the large window nearby. The room features a comfortable chair draped with a knitted blanket, a modern clock on the wall, and a gentle glow from a fireplace, creating an inviting atmosphere. The dog is curled up, exuding a sense of calm and contentment, making this the perfect serene home scene.",
+    "breed": "german_shepherd",
+    "style": "photo",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_031.png": {
+    "description": "A beautiful Siberian Husky dashes playfully through the freshly fallen snow, sending sprays of powder into the crisp mountain air. The backdrop features towering, snow-capped mountains under a softly illuminated sky, creating a picturesque winter landscape. The dog's striking blue eyes and thick fur coat showcase its breed's ability to thrive in cold environments, making it a perfect subject for this winter scene.",
+    "breed": "siberian_husky",
+    "style": "photo",
+    "setting": "mountains",
+    "activity": "running",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_032.png": {
+    "description": "A playful Siberian Husky energetically runs through a lush forest, joyfully holding a colorful rope toy in its mouth. The sunlight filters through the trees, casting a warm glow on the dog and creating a serene backdrop filled with fallen pine needles and soft moss.",
+    "breed": "siberian_husky",
+    "style": "photo",
+    "setting": "forest",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_033.png": {
+    "description": "The image features a majestic dog sitting at a picnic table in a vibrant park setting, decorated for a birthday celebration. The dog, a Siberian Husky, has a joyful expression and is wearing a colorful party hat. In front of it, a festive cake adorned with candles displays '2026,' complemented by balloons and streamers scattered around, creating a cheerful atmosphere.",
+    "breed": "siberian_husky",
+    "style": "photo",
+    "setting": "park",
+    "activity": "sitting",
+    "mood": "happy",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_034.png": {
+    "description": "A stunning image capturing a Siberian Husky joyfully running through the shallow waves of a beach at sunset. The dog's fur is glistening with water droplets, and the background features soft golden sands and rolling hills under a clear blue sky. The sunlight casts a warm glow on the scene, enhancing the playful and vibrant atmosphere.",
+    "breed": "siberian_husky",
+    "style": "photo",
+    "setting": "beach",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_035.png": {
+    "description": "A striking image of a husky standing proudly on a rock in the center of a serene lake, surrounded by majestic mountains and towering pine trees. The scene is bathed in the soft light of dawn, with reflections of the colorful sky and landscape mirrored in the calm waters of the lake. Wildflowers are visible at the water's edge, adding a vibrant touch to the tranquil setting.",
+    "breed": "siberian_husky",
+    "style": "photo",
+    "setting": "lake",
+    "activity": "standing",
+    "mood": "serene",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_036.png": {
+    "description": "This pencil sketch beautifully depicts a wolf-like dog running energetically through a snowy landscape. The intricate lines highlight the dog's muscular build and expressive features, with its thick fur ruffled by the wind, evoking a sense of movement and freedom. In the background, a mountain range and forest add depth to the serene winter scene, enhancing the dog's playful demeanor in its natural habitat.",
+    "breed": "husky",
+    "style": "pencil_sketch",
+    "setting": "snow",
+    "activity": "running",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_037.png": {
+    "description": "A striking watercolor painting of a Siberian Husky, set in a misty forest environment. The Husky sits proudly, with its distinctive gray and white fur and piercing blue eyes, surrounded by ethereal hues of blue and green from the trees and background. The soft, fluid brushstrokes create a serene and mystical atmosphere, highlighting the dog's strong yet calm demeanor.",
+    "breed": "siberian_husky",
+    "style": "watercolor",
+    "setting": "forest",
+    "activity": "sitting",
+    "mood": "serene",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_038.png": {
+    "description": "This striking artwork features a Siberian Husky standing majestically atop a snow-covered mountain peak, surrounded by a swirling blue sky that adds a dramatic ambiance. The textured brush strokes give the painting depth, emphasizing the Husky's striking features against the vivid backdrop of snow-capped peaks and a swirling cloud formation. The overall scene conveys a sense of strength and beauty in nature, making it a captivating representation of the breed.",
+    "breed": "siberian_husky",
+    "style": "oil_painting",
+    "setting": "mountains",
+    "activity": "standing",
+    "mood": "majestic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_039.png": {
+    "description": "This image features a sleepy dog, likely a husky, curled up comfortably on a couch in a cozy living room. The room has a warm ambiance, with a fireplace crackling in the background and snow visible through the window, creating a serene winter atmosphere. Above the dog's head, thought bubbles show its dreams of chicken and treats, indicating its playful and hungry nature. Plush toys are arranged on the mantel, adding to the homey setting.",
+    "breed": "husky",
+    "style": "cartoon",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_040.png": {
+    "description": "In this picturesque winter scene, two Siberian Huskies are seen energetically running through a snowy landscape. The backdrop features majestic snow-capped mountains under a clear sky, creating a serene and stunning atmosphere. The dogs, one grey and white and the other red and white, appear vibrant and playful, scattering snow as they dash forward, embodying the spirit of outdoor adventure in a winter wonderland.",
+    "breed": "siberian_husky",
+    "style": "photo",
+    "setting": "snow",
+    "activity": "running",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": true
+  },
+  "dog_041.png": {
+    "description": "A cheerful Corgi is happily trotting down a vibrant garden path, surrounded by a colorful array of blooming flowers including roses, pansies, and hydrangeas, creating a picturesque scene. The dog's joyful expression and fluffy tail add to the lively atmosphere, while soft sunlight filters through the foliage, enhancing the beauty of the garden.",
+    "breed": "corgi",
+    "style": "photo",
+    "setting": "garden",
+    "activity": "walking",
+    "mood": "happy",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_042.png": {
+    "description": "In this vibrant image, a happy corgi joyfully runs along a sunlit beach, its reflections shimmering on the wet sand. The background showcases gentle waves lapping against the shore, with lush palm trees lining the coast under a partly cloudy sky. The corgi\u2019s playful demeanor is highlighted as it seems to leap with excitement, capturing the essence of a carefree day by the sea.",
+    "breed": "corgi",
+    "style": "photo",
+    "setting": "beach",
+    "activity": "running",
+    "mood": "happy",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_043.png": {
+    "description": "In a cozy living room setting, a sleeping tricolor Corgi rests peacefully on a plush area rug with geometric patterns. The background features a modern-style green armchair, a lamp, and a television displaying a news broadcast labeled 'BREAKING NEWS'. Natural light streams in from a nearby window, illuminating the dog's soft fur and creating an inviting atmosphere.",
+    "breed": "corgi",
+    "style": "photo",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_044.png": {
+    "description": "In this charming scene, a corgi sits upright at a marble table in a bustling outdoor caf\u00e9. The dog has a curious expression, attentively gazing at the camera, while a plate of croissants and a cup of steaming coffee sit invitingly in front of it. The background reveals a cobblestone street filled with pedestrians and beautiful flower arrangements, adding to the enchanting ambiance of a lively city atmosphere.",
+    "breed": "corgi",
+    "style": "photo",
+    "setting": "cafe",
+    "activity": "posing",
+    "mood": "curious",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_045.png": {
+    "description": "A cheerful corgi sitting elegantly on a wooden bench in a picturesque park during autumn. The golden and orange leaves blanket the ground, providing a vibrant backdrop as the corgi holds a dog biscuit in its mouth, exuding joy and playfulness. The sunlight gently filters through the trees, casting a warm glow and enhancing the serene yet lively atmosphere of the setting.",
+    "breed": "corgi",
+    "style": "photo",
+    "setting": "park",
+    "activity": "sitting",
+    "mood": "happy",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_046.png": {
+    "description": "The illustration features an adorable corgi trotting along a cobbled street, exuding a playful and energetic vibe. The background portrays an old-world charm, with lined buildings that hint at a quaint cityscape, adding depth and context to the scene. The sketch captures the corgi's distinct features, such as its short legs and expressive face, in a light and whimsical manner.",
+    "breed": "corgi",
+    "style": "pencil_sketch",
+    "setting": "street",
+    "activity": "walking",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_047.png": {
+    "description": "The illustration showcases an exuberant corgi frolicking through a vibrant field filled with colorful wildflowers. The dog has a warm, cheerful expression, enhancing the joyful atmosphere. Surrounding the playful corgi, delicate butterflies and hints of greenery create a lively and enchanting setting, making it a delightful representation of a spring or summer day.",
+    "breed": "corgi",
+    "style": "watercolor",
+    "setting": "field",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_048.png": {
+    "description": "The image features a cheerful corgi floating in a bright pink donut-shaped float in a tropical setting. The corgi is wearing stylish sunglasses and has a big smile, adding to the playful atmosphere. In the background, a sunset casts vibrant orange and pink hues across the sky, with palm trees on either side and mountains visible along the shoreline. Colorful fish swim nearby in the clear water, enhancing the fun and relaxed vibe of a sunny beach day.",
+    "breed": "corgi",
+    "style": "digital_art",
+    "setting": "beach",
+    "activity": "floating",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_049.png": {
+    "description": "This charming watercolor illustration depicts a seated corgi with a beautiful autumn backdrop. The dog, characterized by its distinct short legs and fluffy coat, is positioned beside a large tree with vivid orange and red leaves scattered on the ground. The scene captures the essence of fall, with a soft, warm glow in the background that highlights the dog's features and adds to the overall inviting atmosphere.",
+    "breed": "corgi",
+    "style": "watercolor",
+    "setting": "park",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_050.png": {
+    "description": "In a bright and modern kitchen, a corgi is positioned in front of its metal food bowl, happily eating its kibble. The sunlight streams in through a window, casting gentle shadows on the wooden floor, while a small calendar on the wall indicates the month of April 2026. The minimalist design and potted plants in the background add a serene touch to the scene, emphasizing the cozy ambiance of the home.",
+    "breed": "corgi",
+    "style": "photo",
+    "setting": "kitchen",
+    "activity": "eating",
+    "mood": "happy",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_051.png": {
+    "description": "A lively Dalmatian dog is captured mid-stride, walking gracefully across a vast green field under a clear blue sky. The dog's distinctive black spots are prominently displayed against its white coat, and its ears perk up as it explores its surroundings, reflecting a curious and playful nature. The scene conveys a sense of freedom and joy, with the expansive landscape enhancing the dog's playful spirit.",
+    "breed": "dalmatian",
+    "style": "photo",
+    "setting": "park",
+    "activity": "walking",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_052.png": {
+    "description": "A striking Dalmatian stands confidently on a cobblestone street during the golden hour. The scene is framed by charming brownstone buildings bathed in the warm glow of the setting sun, with a few pedestrians in the background enjoying the leisurely evening. The dog's unique black-spotted coat contrasts beautifully against the soft, natural backdrop, creating a picturesque urban atmosphere.",
+    "breed": "dalmatian",
+    "style": "photo",
+    "setting": "street",
+    "activity": "posing",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_053.png": {
+    "description": "This charming image features a Dalmatian sitting proudly on a blue cushion, wearing a graduation cap and tassel. Behind the dog, a vibrant backdrop displays the text 'CLASS OF 2026' in gold lettering, along with decorative elements, creating a playful and celebratory atmosphere. This scene captures a delightful moment that blends humor and festive celebration, perfect for showcasing a pet's achievements.",
+    "breed": "dalmatian",
+    "style": "photo",
+    "setting": "studio",
+    "activity": "posing",
+    "mood": "happy",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_054.png": {
+    "description": "In a vibrant garden setting, a lively Dalmatian with a playful demeanor joyfully runs across a lush green lawn. The dog is proudly carrying a bright red squeaky toy shaped like a monster, vibrant with energy as droplets of water glisten from its fur, indicating a recent playful splashing. Surrounding the dog are various colorful toys scattered across the grass, creating a cheerful atmosphere that highlights the dog's playful spirit.",
+    "breed": "dalmatian",
+    "style": "photo",
+    "setting": "garden",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_055.png": {
+    "description": "A lively Dalmatian runs eagerly down a dirt path in a lush green forest, surrounded by ferns and tall trees. Sunlight filters through the leaves, casting dappled light along the trail. The dog's ears are perked up and its tongue is out, happily enjoying the outdoors.",
+    "breed": "dalmatian",
+    "style": "photo",
+    "setting": "forest",
+    "activity": "running",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_056.png": {
+    "description": "A cozy scene featuring a curled-up Dalmatian dog sleeping peacefully on a couch, draped in soft pillows. The home interior is warm, with a stone fireplace, bookshelves, and a potted plant in the background, creating a serene atmosphere. The dog, with its signature black spots, comfortably nestles into the cushions, embodying tranquility.",
+    "breed": "dalmatian",
+    "style": "pencil_sketch",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_057.png": {
+    "description": "A beautifully illustrated watercolor of a Dalmatian dog walking along the beach at sunset. The dog, characterized by its distinctive black spots on a white coat, is captured mid-stride on wet sand, with gentle waves lapping at the shore. Behind the dog, the sky is painted in vibrant hues of orange, pink, and blue, reflecting the warm glow of the setting sun.",
+    "breed": "dalmatian",
+    "style": "watercolor",
+    "setting": "beach",
+    "activity": "walking",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_058.png": {
+    "description": "This vibrant painting depicts a Dalmatian sitting gracefully in a lush park setting. The dog is framed by greenery and trees, capturing a beautiful sunny day, with people leisurely walking along a path in the background. The artist uses bold brush strokes to create a lively atmosphere, highlighting the Dalmatian's distinctive black spots and expressive posture.",
+    "breed": "dalmatian",
+    "style": "oil_painting",
+    "setting": "park",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_059.png": {
+    "description": "In a vibrant urban setting during the evening, a happy Dalmatian dog is playfully running down the street with a big smile on its face. Behind the dog, a bright red fire truck with flashing lights is seen, adding to the lively atmosphere. The setting features tall buildings and trees lining the street, capturing the essence of a bustling city. The cartoonish art style enhances the cheerful mood of the scene, making it visually appealing.",
+    "breed": "dalmatian",
+    "style": "cartoon",
+    "setting": "street",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_060.png": {
+    "description": "The image features a beautifully crafted stone statue of a dog, resembling a retriever, prominently placed on a pedestal surrounded by colorful flowers in a park setting. Several pigeons are perched atop the statue and are also gathered around its base, adding a lively element to the tranquil scene. The background showcases trees with autumn foliage and visitors enjoying the park, giving it a pleasant, lively atmosphere.",
+    "breed": "retriever",
+    "style": "photo",
+    "setting": "park",
+    "activity": "standing",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_061.png": {
+    "description": "A peaceful British Bulldog is curled up comfortably in a plush dog bed, sound asleep with its tongue slightly sticking out. The cozy setting features a modern living room with a warm fireplace glowing in the background, a stylish armchair, and a small wooden coffee table adorned with a cup and books. Soft lighting enhances the tranquil atmosphere of this homey space.",
+    "breed": "bulldog",
+    "style": "photo",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_062.png": {
+    "description": "The image captures a charming bulldog sitting patiently on a vibrant green lawn scattered with blooming dandelions. In the soft sunlight of the park, the dog has a playful yet calm expression, showcasing its distinctive facial features and sturdy build. In the background, people can be seen strolling leisurely, with trees providing a serene backdrop, perfect for a sunny day out.",
+    "breed": "bulldog",
+    "style": "photo",
+    "setting": "park",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_063.png": {
+    "description": "The image captures a charming scene at a caf\u00e9, where a bulldog is seated at a table, looking curiously at the camera with its tongue out. Surrounding the dog are patrons enjoying their drinks and pastries, framed by potted plants and a large chalkboard displaying spring specials. The warm, inviting atmosphere suggests a pleasant outdoor dining experience during a spring day.",
+    "breed": "bulldog",
+    "style": "photo",
+    "setting": "cafe",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_064.png": {
+    "description": "A charming bulldog is captured on a cobblestone street in a city, exuding a calm yet serious demeanor. The dog is on a leash, showcasing its muscular build and distinctive wrinkled face. The background features red-brick buildings and a hint of pedestrians, reflecting a serene urban setting during the early evening light.",
+    "breed": "bulldog",
+    "style": "photo",
+    "setting": "street",
+    "activity": "walking",
+    "mood": "serious",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_065.png": {
+    "description": "A playful dog stands in a vibrant garden, showcasing colorful flowers in the background. The dog, a bulldog, is enthusiastically holding a thick rope toy in its mouth, with droplets of water glistening around it, hinting at a lively, energetic atmosphere. The well-maintained lawn and the lush garden create a cheerful and inviting scene.",
+    "breed": "bulldog",
+    "style": "photo",
+    "setting": "garden",
+    "activity": "playing",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_066.png": {
+    "description": "This image features a highly detailed pencil sketch of a bulldog, showcasing the dog's prominent facial wrinkles and distinct features. The bulldog gazes steadily at the viewer with a serious expression, highlighting its broad head and muscular build. The intricate shading brings out the textures of its fur and the frown lines on its face, contributing to a lifelike appearance.",
+    "breed": "bulldog",
+    "style": "pencil_sketch",
+    "setting": "other",
+    "activity": "posing",
+    "mood": "serious",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_067.png": {
+    "description": "This charming watercolor illustration captures a bulldog sitting proudly in a park during autumn. The dog's distinctive features, including its muscular build and facial wrinkles, are highlighted against a backdrop of vibrant orange and yellow foliage. A winding path and a bench in the distance add to the serene atmosphere of the scene, making it a perfect representation of a peaceful afternoon.",
+    "breed": "bulldog",
+    "style": "watercolor",
+    "setting": "park",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_068.png": {
+    "description": "In a cozy living room, a relaxed bulldog is peacefully sleeping on a richly patterned rug in front of a warm, crackling fireplace. The ornate fireplace is framed by elegant drapes and decorated with statues and ceramics, reflecting a classic and inviting atmosphere. A plush armchair and a small footstool complete the scene, enhancing the homely feel of this serene setting.",
+    "breed": "bulldog",
+    "style": "oil_painting",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_069.png": {
+    "description": "In a vibrant and colorful kitchen setting, a cartoon bulldog sits on a small chair, eagerly holding a large bone that's dripping with gooey ooze. The dog has a playful expression, with its tongue hanging out in delight, and a speech bubble exclaiming 'YUM!' adds to its cheerful demeanor. The kitchen features bright red cabinets, a yellow refrigerator, and checkered flooring, creating a lively atmosphere that highlights the dog's excitement over its treat.",
+    "breed": "bulldog",
+    "style": "cartoon",
+    "setting": "kitchen",
+    "activity": "eating",
+    "mood": "playful",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_070.png": {
+    "description": "The image features a cozy living room beautifully decorated for Christmas, with a large tree adorned with red and gold ornaments, warm white lights, and an array of wrapped gifts beneath. In front of a crackling fireplace, a sleeping bulldog rests on a fluffy white rug, embodying a serene holiday spirit. A festive banner reading 'MERRY CHRISTMAS 2026' hangs above the fireplace, while red stockings dangle from the mantel, completing the charming holiday scene.",
+    "breed": "bulldog",
+    "style": "photo",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_071.png": {
+    "description": "A striking Shiba Inu stands confidently on a stone path in a tranquil Japanese garden. The scene is adorned with vibrant autumn foliage, highlighted by a red maple tree in the background, and features a traditional lantern and a serene pond filled with lily pads. The dog's sleek, orange coat contrasts beautifully with the green moss and gray stones, capturing a peaceful moment in nature.",
+    "breed": "shiba_inu",
+    "style": "photo",
+    "setting": "garden",
+    "activity": "posing",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_072.png": {
+    "description": "A joyful Shiba Inu is captured mid-run in a beautiful park adorned with cherry blossom trees. The dog holds a bright red ball in its mouth, surrounded by delicate falling petals, creating a picturesque and lively spring atmosphere. The background features a soft blur of pink blooms, enhancing the vibrant and energetic mood of the scene.",
+    "breed": "shiba_inu",
+    "style": "photo",
+    "setting": "park",
+    "activity": "running",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_073.png": {
+    "description": "A charming Shiba Inu sits prominently on a city sidewalk, exuding an air of confidence and charm. The background features a vibrant urban setting with people walking by and storefronts, creating a lively atmosphere. In front of the dog lies a newspaper that highlights the election results, adding a humorous touch to the scene. The warm, soft lighting of the late afternoon enhances the peaceful yet engaging vibe of the moment, making the dog the focal point of this street scene.",
+    "breed": "shiba_inu",
+    "style": "photo",
+    "setting": "street",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_074.png": {
+    "description": "A lively Shiba Inu is captured mid-stride, happily running down a winding dirt path surrounded by vibrant autumn foliage. The trees lining the path are adorned with striking shades of orange, red, and yellow leaves, creating a warm and inviting atmosphere. As the dog runs, leaves swirl around it, adding a playful dynamic to the scene.",
+    "breed": "shiba_inu",
+    "style": "photo",
+    "setting": "forest",
+    "activity": "running",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_075.png": {
+    "description": "The image features a Shiba Inu standing in a pristine snowy landscape, with majestic mountain ranges in the background. Its fur is a beautiful orange-red, contrasting with the white snow that has collected on its face and around its paws. The bright blue sky above adds to the serene and picturesque atmosphere of the snowy setting, capturing a moment of tranquility in nature.",
+    "breed": "shiba_inu",
+    "style": "photo",
+    "setting": "snow",
+    "activity": "posing",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_076.png": {
+    "description": "The image features a beautifully drawn Shiba Inu, depicted in a pencil sketch style. The dog sits confidently among a variety of detailed flowers, including roses and daisies, with a wooden fence in the background. This charming composition captures the dog's distinct fox-like features and friendly expression, set against a lush garden backdrop, evoking a serene and peaceful atmosphere.",
+    "breed": "shiba_inu",
+    "style": "pencil_sketch",
+    "setting": "garden",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_077.png": {
+    "description": "In this vibrant watercolor painting, a Shiba Inu dog is seen swimming in a serene lake during sunset. The water is calm, reflecting the warm colors of the sunset, including shades of orange, yellow, and blue. The background features trees with autumn foliage, creating a picturesque and tranquil atmosphere, while the dog splashes gently in the water, capturing a moment of joy and playfulness.",
+    "breed": "shiba_inu",
+    "style": "watercolor",
+    "setting": "lake",
+    "activity": "swimming",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_078.png": {
+    "description": "A cheerful Shiba Inu sits at a caf\u00e9 table, smiling broadly as it enjoys a cup of coffee. The cozy caf\u00e9 setting features green plants, light wood furniture, and a sunny atmosphere, with large windows showing a view of the street. The dog's joyful expression and the playful text beneath it create a lighthearted and charming scene.",
+    "breed": "shiba_inu",
+    "style": "cartoon",
+    "setting": "cafe",
+    "activity": "sitting",
+    "mood": "happy",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_079.png": {
+    "description": "In a vibrant and evocative autumn setting, a Shiba Inu joyfully runs through a carpet of fallen leaves. The warm colors of orange, red, and yellow foliage surround the scene, with tall trees framing the path leading deeper into an enchanting forest. The chunky texture of the painting adds depth, enhancing the dog\u2019s playful expression and lively demeanor.",
+    "breed": "shiba_inu",
+    "style": "oil_painting",
+    "setting": "forest",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_080.png": {
+    "description": "This image features a proud Shiba Inu sitting gracefully next to a shiny golden trophy. The dog has a calm demeanor, showcasing its beautiful cream and orange coat. The trophy is labeled 'BEST IN SHOW 2026' and stands out against the clean, neutral background, emphasizing the dog\u2019s achievement. The wooden floor adds warmth to the scene, highlighting the dog's glossy fur and the trophy's shiny surface.",
+    "breed": "shiba_inu",
+    "style": "photo",
+    "setting": "studio",
+    "activity": "sitting",
+    "mood": "proud",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_081.png": {
+    "description": "A lively beagle bounds through a sun-dappled forest path, surrounded by trees and autumn foliage. The dog's ears flap in the breeze as it joyfully trots along, scattering leaves and creating a serene yet energetic atmosphere. The soft sunlight filtering through the trees casts a warm glow, highlighting the rich colors of the surroundings and enhancing the playful mood of the scene.",
+    "breed": "beagle",
+    "style": "photo",
+    "setting": "forest",
+    "activity": "running",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_082.png": {
+    "description": "In a spacious park bathed in golden light, a beagle joyfully chases a bright red ball across the lush green grass. Two children, a girl and a boy, run closely behind, clearly delighted by the playful scene. In the background, two adults relax on a picnic blanket, engaged in cheerful conversation, creating an atmosphere of family fun and love. Tall trees provide a picturesque backdrop, further enhancing the vibrant, joyful ambiance of the outdoor gathering.",
+    "breed": "beagle",
+    "style": "photo",
+    "setting": "park",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_083.png": {
+    "description": "In a modern kitchen filled with natural light, a beagle is happily eating from its stainless steel bowl placed on a decorative mat. The sleek cabinetry and stainless steel appliances create a contemporary ambiance, while a calendar on the fridge and some herbs on the countertop add a personal touch to the space.",
+    "breed": "beagle",
+    "style": "photo",
+    "setting": "kitchen",
+    "activity": "eating",
+    "mood": "happy",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_084.png": {
+    "description": "A cheerful beagle joyfully runs along a sandy beach, its ears flapping in the breeze. The dog, with a distinct brown, black, and white coat, is captured mid-stride, exuding energy and happiness against the backdrop of gentle ocean waves and palm trees. The bright blue sky and warm golden sand enhance the lively atmosphere of this perfect beach day for a dog.",
+    "breed": "beagle",
+    "style": "photo",
+    "setting": "beach",
+    "activity": "running",
+    "mood": "happy",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_085.png": {
+    "description": "The image features a Beagle sitting gracefully in a lush garden surrounded by vibrant roses of various colors, including pink, white, and red. The soft morning light enhances the dog's beautiful fur and expressive eyes, giving the scene a warm and serene atmosphere. The Beagle appears calm and contemplative, making this an idyllic representation of a peaceful moment in nature.",
+    "breed": "beagle",
+    "style": "photo",
+    "setting": "garden",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_086.png": {
+    "description": "This image features a beautifully detailed pencil sketch of a beagle sitting serenely in a foggy forest setting. The beagle's expressive eyes and the intricate fur texture are highlighted against a backdrop of tall, slender trees, with fallen leaves scattered on the ground, adding to the tranquil and slightly mysterious atmosphere of the scene.",
+    "breed": "beagle",
+    "style": "pencil_sketch",
+    "setting": "forest",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_087.png": {
+    "description": "A joyful beagle with its ears flopping as it runs across a sunlit grassy field, surrounded by autumn trees. The dog has a shiny, tricolor coat, displaying shades of brown, black, and white. The background features a soft blur of warm colors, depicting a serene outdoor setting that captures the essence of a lively and playful moment in nature.",
+    "breed": "beagle",
+    "style": "watercolor",
+    "setting": "park",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_088.png": {
+    "description": "The image features a cozy living room scene where a beagle is peacefully sleeping in its dog bed, covered with a soft blanket. Nearby, a steaming mug sits on a small coffee table, and a fire crackles in the fireplace, creating a warm ambiance. Sunlight filters through the window, illuminating the room decorated with family photos and a comfortable yellow armchair, enhancing the inviting atmosphere.",
+    "breed": "beagle",
+    "style": "digital_art",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_089.png": {
+    "description": "A lively beagle is seen joyfully running through a desert landscape, surrounded by cacti and scrub vegetation. The beagle's distinctive brown, black, and white coat is beautifully rendered in warm, vibrant colors. The vast sky above is clear and bright, with soft, inviting clouds adding depth to the scene, evoking a sense of freedom and adventure in nature.",
+    "breed": "beagle",
+    "style": "watercolor",
+    "setting": "desert",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_090.png": {
+    "description": "In the vibrant setting of a sunlit park, a playful beagle puppy rolls adorably on the lush green grass, surrounded by blooming dandelions. The puppy's curious expression and floppy ears add to its charm as it playfully nibbles on a blade of grass, embodying a moment of carefree joy and innocence.",
+    "breed": "beagle",
+    "style": "photo",
+    "setting": "park",
+    "activity": "playing",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_091.png": {
+    "description": "The image features a well-groomed poodle standing elegantly against a neutral gray background. The dog showcases a pristine white coat, styled with fluffy, rounded fur on its ears and paws, creating a sophisticated appearance. Its posture is confident and poised, with an alert expression, highlighting the playful yet regal nature of this breed.",
+    "breed": "poodle",
+    "style": "photo",
+    "setting": "studio",
+    "activity": "posing",
+    "mood": "serious",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_092.png": {
+    "description": "The image features a joyful white poodle in mid-air, catching a red ball during playtime in a sunny park. The dog exhibits an energetic pose with its ears flapping and tongue out, showcasing excitement and enthusiasm. The lush green grass and soft sunlight in the background create a vibrant atmosphere, emphasizing the dog\u2019s playful spirit.",
+    "breed": "poodle",
+    "style": "photo",
+    "setting": "park",
+    "activity": "playing",
+    "mood": "energetic",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_093.png": {
+    "description": "A fluffy, light-colored dog sits patiently on the pavement in an urban environment. Behind the dog, there is a vibrant advertisement featuring bold text that reads 'SUMMER SALE 2026' along with colorful abstract shapes. The scene captures a lively city atmosphere with pedestrians and vehicles in the background, highlighting a typical day in the city.",
+    "breed": "poodle",
+    "style": "photo",
+    "setting": "street",
+    "activity": "sitting",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_094.png": {
+    "description": "In a vibrant garden bursting with colorful flowers, a cheerful poodle is captured mid-stride, embodying joy and energy. The lush pathway is lined with blooming roses in shades of pink and yellow, alongside clusters of blue and purple flowers, creating a picturesque scene. The background reveals an elegant wrought iron gate, hinting at a beautiful estate beyond. Petals float in the air, enhancing the enchanting atmosphere of this sunny day in the garden.",
+    "breed": "poodle",
+    "style": "photo",
+    "setting": "garden",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_095.png": {
+    "description": "This charming image features a fluffy cream-colored poodle seated upright on a red-cushioned chair at an outdoor caf\u00e9. The dog is adorned with a pearl necklace, exuding elegance while gazing towards the viewer. In the background, patrons can be seen enjoying their coffee and pastries, surrounded by vibrant greenery and Parisian architecture, creating a lively yet relaxed atmosphere.",
+    "breed": "poodle",
+    "style": "photo",
+    "setting": "cafe",
+    "activity": "posing",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_096.png": {
+    "description": "This intricate pencil sketch depicts a poodle standing majestically on the sandy beach, with gentle waves lapping at the shore in the background. The dog sports a fluffy, curly coat, characteristic of the breed, and its prideful posture highlights its elegance and intelligence. The coastal scenery features soft waves and distant cliffs, creating a serene and picturesque atmosphere that complements the poodle's dignified stance.",
+    "breed": "poodle",
+    "style": "pencil_sketch",
+    "setting": "beach",
+    "activity": "posing",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  },
+  "dog_097.png": {
+    "description": "This charming watercolor illustration features a lively poodle gracefully leaping amidst a serene garden scene. Surrounded by delicate lilac flowers and soft pink roses, the dog exudes joy and energy as a small bee flits nearby, capturing the essence of a beautiful spring day. The muted colors and soft brush strokes enhance the whimsical atmosphere of the image, making it a delightful representation of a playful pet in nature.",
+    "breed": "poodle",
+    "style": "watercolor",
+    "setting": "garden",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_098.png": {
+    "description": "A regal-looking poodle is seated elegantly, adorned with a lavish necklace featuring red gems and a silk blue and gold robe, exuding a sense of nobility. The background includes a rich curtain and a classical column, accompanied by a partially visible statue, creating an atmosphere reminiscent of an old master painting. The dog's fur is fluffy and well-groomed, with its head held high, reflecting a confident demeanor in this artistic representation.",
+    "breed": "poodle",
+    "style": "oil_painting",
+    "setting": "studio",
+    "activity": "posing",
+    "mood": "serious",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_099.png": {
+    "description": "This vibrant illustration features a cheerful poodle with a fluffy coat in bright blues, yellows, and pinks, joyfully running along a path in a sunny park. Surrounding the dog are colorful trees in autumn hues, and a group of happy children playing and celebrating in the background, adding to the overall festive atmosphere. The scene radiates joy and playfulness, capturing a perfect day outdoors.",
+    "breed": "poodle",
+    "style": "cartoon",
+    "setting": "park",
+    "activity": "running",
+    "mood": "playful",
+    "has_text": false,
+    "multiple_dogs": false
+  },
+  "dog_100.png": {
+    "description": "In a cozy living room adorned for the New Year celebration, a warm fire crackles in the fireplace, casting a soft glow. The mantle is decorated with holly garlands, stockings, and a cheerful 'Happy New Year 2026' banner. Nestled on a plush gray blanket is a golden doodle, resting serenely, contributing to the inviting ambiance of home and festivity.",
+    "breed": "golden_doodle",
+    "style": "photo",
+    "setting": "living_room",
+    "activity": "sleeping",
+    "mood": "calm",
+    "has_text": true,
+    "multiple_dogs": false
+  }
+}
